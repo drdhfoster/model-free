@@ -1,4 +1,4 @@
-# modelfree: model-free estimation of a psychometric function
+# modelfree: model-free estimation of a psychometric or stimulus-response function
 
 **Website:** https://drdhfoster.github.io/model-free/
 
