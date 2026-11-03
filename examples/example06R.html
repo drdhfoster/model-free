@@ -60,10 +60,10 @@
   <p>Load the data and plot the measured psychometric data (black dots), as follows.  Notice that in the same example in Żychaluk and Foster(2009) <a href="../software/papers/Zychaluk_Foster_PNP_09.pdf">Download PDF</a>, the x-axis was reversed.</p>
   <TABLE WIDTH=100% BORDER=1 CELLPADDING=2 CELLSPACING=0 BGCOLOR="#ceffcf">
     <TR>
-      <TD><CODE>data(&quot;06_Nascimento&quot;)<BR>
-                x = example06$x<BR>
-                r = example06$r<BR>
-				m = example06$m<BR>
+      <TD><CODE>data(&quot;Nascimento_etal&quot;)<BR>
+                x = Nascimento_etal$x<BR>
+                r = Nascimento_etal$r<BR>
+				m = Nascimento_etal$m<BR>
 				plot( x, r / m, xlim = c( 1.17, 7.8 ), ylim = c( 0.47, 1.03 ), type = &quot;p&quot;,
 	            pch=&quot;*&quot; ) # Limits set to match the MatLab</CODE></TD>
     </TR>
