@@ -47,9 +47,11 @@ This work was supported by the EPSRC (grant no. EP/C003470/1) and the BBSRC (gra
 
 ## Licence
 
-The software is distributed under the GNU Lesser General Public License, version 3 or later (LGPL-3.0-or-later), the same licence as the R package on CRAN. See [`LICENSE`](LICENSE).
+The MATLAB package (`software/MatLab/`) is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE). It is free for noncommercial use, including academic research, teaching and personal study, but not for commercial use. For commercial use, please contact the authors.
 
-The licence covers the software only. The two articles in `software/papers/` remain under their publishers' copyright and are provided for personal research use only. The example datasets come from the studies cited on each example page.
+The R package is distributed separately on CRAN under the GNU Lesser General Public License, version 3 or later (LGPL-3.0-or-later).
+
+These licences cover the software only. The two articles in `software/papers/` remain under their publishers' copyright and are provided for personal research use only. The example datasets come from the studies cited on each example page.
 
 ## Contact
 
